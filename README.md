@@ -7,6 +7,9 @@ The project is consists of two sub-projects, a VideoStreamServer and a VideoStre
 Build Instruction
 -----------------
 
+## Prerequisite
+MASM needs to be installed on Linux/Mac OS X environments.
+
 ## Linux / Mac OS X
 First, obtain the source code from the repository using Git. To simply download the code, run the following command from a terminal:
 

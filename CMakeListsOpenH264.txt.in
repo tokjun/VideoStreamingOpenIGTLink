@@ -7,7 +7,7 @@ ExternalProject_Add(OpenH264
   GIT_REPOSITORY https://github.com/cisco/openh264.git
   GIT_TAG 33cb4a6df04b0d24c1ab20a260d358c737c1577e
   SOURCE_DIR        "${PROJECT_BINARY_DIR}/OpenH264"
-  BINARY_DIR        "${PROJECT_BINARY_DIR}/OpenH264"
+  BINARY_DIR        "${PROJECT_BINARY_DIR}/OpenH264-build"
   CONFIGURE_COMMAND ""
   BUILD_COMMAND     ""
   INSTALL_COMMAND   ""
